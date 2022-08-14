@@ -2,6 +2,8 @@
 
 [![Build status](https://ci.appveyor.com/api/projects/status/t0qwu3mfd8k94fui?svg=true)](https://ci.appveyor.com/project/Lizaveta04/continuous-deployment)
 
+https://lizaveta04.github.io/continuous-deployment/
+
 ## Continuous Deployment
 
 #### Описание
